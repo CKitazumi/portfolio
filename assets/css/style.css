@@ -1,0 +1,32 @@
+:root {
+    --outer-space: turquoise;
+    --bright-turquosie: red;
+    --gin: 
+}
+
+html {
+    font-size: 62.5%;
+}
+
+code {
+    font-family: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console',
+    'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
+    'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier,
+    monospace;
+}
+
+p {
+    margin-bottom: 1rem;
+  }
+
+header {
+    width: 96%;
+  margin: 0 auto;
+  padding: 2.5rem;
+  text-align: center;
+}
+
+header h1.page-title {
+    padding: 1rem 1.2rem;
+    font-size: 4.5rem;
+  }
